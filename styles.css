@@ -134,7 +134,7 @@ body {
     color: #fff;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 900px) {
     .container {
         width: 90%;
         height: 400px;
